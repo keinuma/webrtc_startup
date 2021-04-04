@@ -287,6 +287,11 @@
   resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.1.tgz#18845205e86ff0038517aab7a18a62a6b9f71275"
   integrity sha512-EaCxbanVeyxDRTQBkdLb3Bvl/HK7PBK6UJjsSixB0iHKoWxE5uu2Q/DgtpOhPIojN0Zl1whvOd7PoHs2P0s5eA==
 
+"@types/webrtc@^0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@types/webrtc/-/webrtc-0.0.27.tgz#cf9118fa0ac54e530f0ee16c45b8e34df70ef47d"
+  integrity sha512-uouyrXLZQJlysndIatP+O1aC8Ls/OP+zBeVnEBnnWCwH/RV8IWdmAIpoZBGfTcCbm8jWRKjijO2RXUcvMBz2TA==
+
 "@typescript-eslint/eslint-plugin@^4.20.0":
   version "4.20.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-4.20.0.tgz#9d8794bd99aad9153092ad13c96164e3082e9a92"
